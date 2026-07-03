@@ -1,0 +1,49 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+env/
+venv/
+.venv/
+*.egg-info/
+dist/
+build/
+
+# Node
+node_modules/
+dist/
+.cache/
+*.log
+.env.local
+
+# Flutter
+*.iml
+*.lock
+*.pyc
+*.swp
+.DS_Store
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+build/
+pubspec.lock
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Environment
+.env
+.env.*
+*.key
+*.pem
+firebase-credentials.json
+
+# Database
+*.db
+*.sqlite
+postgres_data/
